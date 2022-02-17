@@ -1,0 +1,10 @@
+﻿  Estimator.cpp
+C:\Users\Harry\Desktop\Scripts\C\Estimator\Estimator.cpp(95,42): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\Harry\Desktop\Scripts\C\Estimator\Estimator.cpp(95,38): warning C4244: 'initializing': conversion from 'long double' to 'const int', possible loss of data
+C:\Users\Harry\Desktop\Scripts\C\Estimator\Estimator.cpp(96,41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Harry\Desktop\Scripts\C\Estimator\Estimator.cpp(96,35): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Estimator.vcxproj -> C:\Users\Harry\Desktop\Scripts\C\Estimator\x64\Release\Estimator.exe
